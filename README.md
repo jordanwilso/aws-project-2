@@ -1,1 +1,1 @@
-# workshop2
+# Deploy application to AWS EC2 instance
